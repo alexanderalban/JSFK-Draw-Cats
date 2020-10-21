@@ -5,3 +5,5 @@ const drawCats = (howManyTimes) => {
 };
 
 drawCats(25);
+
+//type this into console!
